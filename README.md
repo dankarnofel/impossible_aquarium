@@ -1,5 +1,5 @@
 # Art 185ai Final Project
-# impossible_aquarium
+# Impossible Aquarium by Daniel Karnofel
 # - - - - - - - - - - - - 
 # images created using BigGAN
 # aquarium coded in Processing
